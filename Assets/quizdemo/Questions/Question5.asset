@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81c22eb5ff6a0e145b0f5f9925f47f39, type: 3}
+  m_Name: Question5
+  m_EditorClassIdentifier: 
+  questionText: "Anadolu Sel\xE7uklu Devleti ka\xE7 y\u0131l\u0131nda kuruldu?"
+  answers:
+  - 1075
+  - 1000
+  - 1525
+  - 1071
+  correctAnswerIndex: 0
